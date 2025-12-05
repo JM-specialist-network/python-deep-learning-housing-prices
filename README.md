@@ -120,7 +120,7 @@ Tested **3 regularization techniques** to combat overfitting:
 
 **Results:**
 - All three techniques reduced overfitting.  
-- **Best regularization**: [Insert your result, e.g., "Dropout with lowest validation MSE"].
+- **Best regularization**: [Mejor regularización: L1 con pérdida (MSE) = 1615437440.00].
 
 ---
 
